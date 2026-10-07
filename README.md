@@ -224,7 +224,7 @@ SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
 
 为减少延迟，推荐使用在 iPhone 邮件 App 中支持实时推送的 iCloud 或 Exchange 邮箱。
 首次运行仍可能要求 iOS 权限确认，部分动作在锁屏状态下也可能受到系统限制，因此该
-模式仍标记为实验功能。
+模式仍标记为实验功能。。
 
 维护者修改云函数源文件后运行：
 
